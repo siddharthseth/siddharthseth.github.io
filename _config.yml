@@ -9,13 +9,13 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 57a760 #80B3FF
+  secondary: 31870f #FD6E8A
+  secondary-dark: 328100 #A2122F
 
 # Footer settings
 footer:
-  copyright: Siddharth Seth 2015
+  copyright: Siddharth Seth
   location: Location
   social: Around the Web
   credits: Credits
